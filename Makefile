@@ -5,4 +5,4 @@ run: build
 	@./bin/cs
 
 test:
-	@go test ./... -v --race
+	@go test ./... --race
